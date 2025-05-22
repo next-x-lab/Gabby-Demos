@@ -1,0 +1,6 @@
+[submodule "dm-bot"]
+	path = dm-bot
+	url = git@github.com:nextgabby/dm-bot.git
+[submodule "speed-scroll"]
+	path = speed-scroll
+	url = git@github.com:nextgabby/speed-scroll.git
